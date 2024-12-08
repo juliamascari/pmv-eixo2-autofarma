@@ -19,13 +19,13 @@ Projeto realizado durante o segundo eixo do curso de Sistemas da Informação, o
 
 # Projeto
 
-[Documentação](/Documentação)
-[Planejamento do Projeto](/Planejamento do Projeto)
-[Artefatos](/Artefatos)
+* [Documentação](/Documentação)
+* [Planejamento do Projeto](/Planejamento%20do%20Projeto)
+* [Artefatos](/Artefatos)
 
 # Apresentação
 
-[Apresentação do Projeto](/Apresentação do Projeto)
+[Apresentação do Projeto](/Apresentação%20do%20Projeto)
 
 # Sydle One
 
