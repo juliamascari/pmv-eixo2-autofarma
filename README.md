@@ -19,12 +19,14 @@ Projeto realizado durante o segundo eixo do curso de Sistemas da Informação, o
 
 # Projeto
 
-
 [Documentação](/Documentação)
-<li><a href="docs/02-Planejamento.md"> Planejamento do Projeto</a></li>
-<li><a href="docs/03-Artefatos.md"> Artefatos</a></li>
-<li><a href="docs/04-Projeto de Interface.md"> Sydle One</a></li>
+[Planejamento do Projeto](/Planejamento do Projeto)
+[Artefatos](/Artefatos)
 
 # Apresentação
 
-<li><a href="docs/05-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+[Apresentação do Projeto](/Apresentação do Projeto)
+
+#Sydle One
+
+[Projeto Na Plataforma Sydle One](https://pucminas-partner.sydle.one/#/app/main/obj/595c20500000000000000133/66f091c25235c25d9fe7da17)
