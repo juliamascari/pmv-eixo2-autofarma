@@ -29,4 +29,5 @@ Projeto realizado durante o segundo eixo do curso de Sistemas da Informação, o
 
 # Sydle One
 
-[Projeto Na Plataforma Sydle One](https://pucminas-partner.sydle.one/#/app/main/obj/595c20500000000000000133/66f091c25235c25d9fe7da17)
+[Sydle One](/SydleOne)
+[Projeto Na Plataforma](https://pucminas-partner.sydle.one/#/app/main/obj/595c20500000000000000133/66f091c25235c25d9fe7da17)
